@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<PRODUCTS>
+	<PRODUCT name="BMW">
+		<INFO type="i8" symbol="601245" kod_prod="645673" desc = "1,5 (362KM) A0 z silnikiem hybrydowym (benzynowo-elektrycznym) o mocy 362KM, Bezstopniowa automatyczna skrzynia biegów" pict="http://www.dreamcarsite.com/photos/cars01/2015-i8/15-i8-01-front-t.jpg" price="597000"/>
+		<INFO type="i3" symbol="601246" kod_prod="645673" desc = "0,0 (170KM) A1 z silnikiem elektrycznym o mocy 170KM, Bezstopniowa automatyczna skrzynia biegów" pict="http://www.sinaimg.cn/qc/photo_auto/photo/78/03/30167803/30167803_150.jpg" price="153700"/>
+	</PRODUCT>
+	<PRODUCT name="Aston Martin">
+		<INFO type="DB9" symbol="601236" kod_prod="645682" desc = "6,0 V12 (477KM) A6 Touchtronic II z silnikiem benzynowym o mocy 477KM, automatyczna skrzynia biegów" pict="http://img.motonews.pl/auta-nowe/model/aston-martin-db9.jpg" price="606218.38"/>
+		<INFO type="Rapide" symbol="601237" kod_prod="645682" desc = "6,0 V12 (558KM) A6 Touchtronic II z silnikiem benzynowym o mocy 558KM, automatyczna skrzynia biegów" pict="http://img.motonews.pl/auta-nowe/model/aston-martin-rapide.jpg" price="706218.38"/>
+	</PRODUCT>
+	<PRODUCT name="Honda">
+		<INFO type="Accord" symbol="601226" kod_prod="645682" desc = "z silnikiem 2,0i-VTEC (156KM) M6 oraz pakietem wyposazenia S to 4 drzwiowe auto typu sedan wyposazone w silnik benzynowy o mocy 156KM oraz manualna skrzynie biegów" pict="http://images.globes.co.il/Images/NewGlobes/NewPromo100x75/2011/Honda-Accord_EU_Version_2011_1[1.jpg" price="102400"/>
+		<INFO type="Civic" symbol="601227" kod_prod="645682" desc = "wersja Civic 1,4i-VTEC (100KM) M6 z silnikiem benzynowym o mocy 100KM, manualna skrzynia biegów oraz pakietem wyposazenia S" pict="http://img.motonews.pl/auta-nowe/model/honda-civic.jpg" price="65700"/>
+	
+	</PRODUCT>
+        <PRODUCT name="Infiniti">
+		<INFO type="Q50" symbol="601216" kod_prod="645683" desc = " Q50 2,2d (170KM) M6 z silnikiem Diesla o mocy 170KM, manualna skrzynia biegów" pict="http://www.omniauto.it/awpImages/sondaggi/entry/1650.jpg" price="150000"/>
+		
+	
+	</PRODUCT>
+</PRODUCTS>

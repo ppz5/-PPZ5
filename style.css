@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* Style */
+
+.signup, .signin{
+	width:55%;
+	float:left;
+}
+
+.signup{
+	margin-left:-15%;
+}
+.signin{
+	margin-left:5%;
+}

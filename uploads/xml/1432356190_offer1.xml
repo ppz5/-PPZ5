@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<PRODUCTS>
+	<PRODUCT name="Karta graf">
+		<INFO type="GeForce" symbol="401245" kod_prod="345673" desc = "Karta graficzna GeForce GTX 970" price="890.44"/>
+		<INFO type="GeForce" symbol="401246" kod_prod="345673" desc = "Karta graficzna GeForce GTX 780" price="750.94"/>
+	</PRODUCT>
+	<PRODUCT name="Monitor">
+		<INFO type="Samsung" symbol="401236" kod_prod="345682" desc = "Monitor LCD Samsung 24 T24D390EW LED" price="770.99"/>
+		<INFO type="Samsung" symbol="401237" kod_prod="345682" desc = "Monitor Samsung S24D390HL" price="570.99"/>
+	</PRODUCT>
+	<PRODUCT name="Smartfon">
+		<INFO type="LG" symbol="401226" kod_prod="345682" desc = "LG D686 Swift G Pro Lite Dual" price="770.99"/>
+		<INFO type="Samsung" symbol="401227" kod_prod="345682" desc = "Samsung Galaxy Grand Neo GT-I9060" price="700.99"/>
+	</PRODUCT>
+	<PRODUCT name="Tablet">
+		<INFO type="Samsung" symbol="401216" kod_prod="345682" desc = "SAMSUNG Galaxy Tab 3 P5210 16GB Bialy" price="760.99"/>
+	</PRODUCT>
+</PRODUCTS>
